@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+body {
+  background-image: url("http://88.127.124.43:32768/share/-axTwl1ps5_y9VjQ/Home.jpg ");
+  background-size: cover;
+}
+/* side menu icon */
+.MuiListItemIcon-root svg {
+  margin-left: 20px;
+}
